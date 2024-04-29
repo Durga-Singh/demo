@@ -1,3 +1,5 @@
 # demo
 This is a demo activity
-Do not waste your time here
+<div>
+  Do not waste your time here
+</div>
